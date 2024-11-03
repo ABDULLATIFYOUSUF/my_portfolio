@@ -1,0 +1,26 @@
+[
+    {
+        "id": 3,
+        "qual": "Web & Mobile App Development Course",
+        "school": "Saylani Mass Training Programme (SMIT)",
+        "duration": "2023"
+      },
+      {
+        "id": 4,
+        "qual": "B.COM",
+        "school": "Allam Iqbal Open University",
+        "duration": "In Progress"
+      },
+      {
+        "id": 5,
+        "qual": "Intermediate",
+        "school": "Intermediate Board of Karachi",
+        "duration": "2010"
+      },
+      {
+        "id": 6,
+        "qual": "Matriculation",
+        "school": "H.E.F Boys Secondary School",
+        "duration": "2002"
+      }
+]

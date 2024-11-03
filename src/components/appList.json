@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "image": "https://img.freepik.com/premium-photo/stack-books-with-open-book-top-cozy-library-setting-reading-knowledge-concept_1132312-3444.jpg?w=996",
+    "name": "Book Store",
+    "Description": "The 'Book Store' project is a fully responsive web application developed using React JS, Node.js, MongoDB, Tailwind CSS, and Daisy UI, providing users with a seamless browsing experience for books. It features both dark mode and light mode options, enhancing usability and aesthetics for all users.",
+    "URL": "https://latifbookstore.up.railway.app/"
+  },
+  {
+    "id": 2,
+    "image": "https://img.freepik.com/free-photo/delicious-burger-with-fresh-ingredients_23-2150857908.jpg?uid=R164187097&ga=GA1.1.123056461.1726748667&semt=ais_hybrid",
+    "name": "Burger Website",
+    "Description": "An interactive burger ordering platform built with Next.js, offering a seamless user experience and dynamic content. Explore a delicious menu and customize your orders effortlessly!",
+    "URL": "https://nextjs-burger-app-lake.vercel.app/"
+  },
+  {
+    "id": 3,
+    "image": "https://img.freepik.com/premium-photo/real-estate-agent-holding-key-with-tiny-red-house_1230717-166767.jpg?w=900",
+    "name": "D.E.M.O Real Estate",
+    "Description": "Responsive portfolio website created with HTML, CSS, and JavaScript, featuring sections for About, Services, and Contact. Utilizes media queries for optimal viewing on all devices.",
+    "URL": "https://abdullatifyousuf.github.io/demo_website/"
+  },
+  {
+    "id": 4,
+    "image": "https://img.freepik.com/free-vector/resume-writing-service-abstract-concept_335657-3098.jpg?t=st=1729101110~exp=1729104710~hmac=44ab7bc8806bac58056e93525c8e8c80dbaa70a4c9dac77a191f3d0b2aee693a&w=740",
+    "name": "Resume Builder",
+    "Description": "A resume builder developed using HTML, CSS, and JavaScript that allows users to create and customize their resumes. The application includes a feature to download the completed resume as a PDF.",
+    "URL": "https://resume-builder-kohl-six.vercel.app/"
+  },
+  
+  {
+    "id": 5,
+    "image": "https://img.freepik.com/free-vector/calculator-concept-illustration_114360-1194.jpg?t=st=1729101232~exp=1729104832~hmac=e7cf36cad740bf8a781423d966df621da34304a6e263798bc5f95c138773c8aa&w=740",
+    "name": "Calculator",
+    "Description": "A calculator created using HTML, CSS, and JavaScript, featuring a user-friendly interface for basic arithmetic operations. The application provides real-time calculations as users input their expressions.",
+    "URL": "https://abdullatifyousuf.github.io/calculatornew/"
+  },
+  {
+    "id": 6,
+    "image": "https://img.freepik.com/free-vector/search-concept-landing-page_23-2148211329.jpg?t=st=1729101366~exp=1729104966~hmac=b81133083df6d8b0e463ece5a441720bfafdb695d7f111c8151fa836168cfd54&w=740",
+    "name": "Git Finder",
+    "Description": "'Git Finder' is a web application built using React JS and Tailwind CSS that allows users to search and explore GitHub repositories. The project utilizes Firebase for secure data storage and management.",
+    "URL": "https://gitfinderreact.web.app/"
+  },
+  {
+    "id": 7,
+    "image": "https://img.freepik.com/free-photo/photorealistic-style-clouds-storm_23-2151058918.jpg?t=st=1729101457~exp=1729105057~hmac=b5b6d4d13da6d729c210d59f62f0b060d5a30cf6c71d40b864bbef2ba4efdc3a&w=740",
+    "name": "Weather App",
+    "Description": "The Weather App is a responsive web application developed with React JS and Tailwind CSS, providing real-time weather updates for various locations. It leverages Firebase for user authentication and data storage, allowing users to save their favorite locations seamlessly.",
+    "URL": "https://weatherappreact-5d0d6.web.app/"
+  },
+  {
+    "id": 8,
+    "image": "https://img.freepik.com/free-vector/tiny-man-woman-standing-near-list-couple-ticking-off-items-check-list-flat-vector-illustration-daily-routine-busy-lifestyle-concept-banner-website-design-landing-web-page_74855-22067.jpg?t=st=1729101556~exp=1729105156~hmac=56eccf7e3504c0bc2c988564176020b59f33290828de38a1e0b7ca0bc2912566&w=900",
+    "name": "TODO LIST",
+    "Description": "The To-Do List is a web application created using React JS and Tailwind CSS, allowing users to easily manage and organize their tasks. It integrates Firebase for secure user authentication and data storage, ensuring that users can access their to-do lists from anywhere.",
+    "URL": "https://todoreact-3858a.firebaseapp.com/"
+  },
+  {
+    "id": 9,
+    "image": "https://img.freepik.com/premium-psd/book-hardcover-mockup-three-views_125540-226.jpg?w=826",
+    "name": "STORE BOOK NAME IN DATABASE",
+    "Description": "The 'Store Book Name in Database' project is a web application built with React JS and Firebase, enabling users to add, view, and manage book titles in a database. This application provides a simple interface for tracking favorite books and utilizes Firebase for secure data storage and retrieval.",
+    "URL": "https://my1stfbaseproject.web.app/"
+  }
+]
