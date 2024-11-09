@@ -6,24 +6,24 @@ import { BiLogoGmail } from "react-icons/bi";
 
 function Contact() {
   return (
-    <div className="pt-24 dark:bg-slate-700 h-svh">
+    <div className="py-20 dark:bg-slate-700 h-svh">
 
-    <div className=" flex flex-col gap-4 items-center md:border-4 rounded-xl border-slate-900 w-fit mx-auto p-2 md:px-10 py-5 dark:bg-slate-700 dark:text-white">
+    <div className=" flex flex-col gap-4 items-center md:border-4 rounded-xl border-slate-900 w-fit mx-auto md:p-2 md:px-10 my-5 dark:bg-slate-700 dark:text-white">
       <div>
         <form className="flex flex-col gap-5">
           <h1 className="text-4xl underline font-bold text-center">For Contact</h1>
           <input
-            className="border-4 border-slate-600 rounded-xl p-3 w-96 dark:bg-slate-700 dark:border-white"
+            className="border-4 border-slate-600 rounded-xl p-3 w-[100%] md:w-96 dark:bg-slate-700 dark:border-white"
             type="text"
             placeholder="Enter Your Name...."
           />
           <input
-            className="border-4 border-slate-600 rounded-xl p-3 w-96 dark:bg-slate-700 dark:border-white"
+            className="border-4 border-slate-600 rounded-xl p-3 w-[100%] md:w-96 dark:bg-slate-700 dark:border-white"
             type="text"
             placeholder="Enter Your Contact Number...."
           />
           <textarea
-            className="border-4 border-slate-600 rounded-xl p-3 w-96 dark:bg-slate-700 dark:border-white"
+            className="border-4 border-slate-600 rounded-xl p-3 w-[100%] md:w-96 dark:bg-slate-700 dark:border-white"
             placeholder="Enter Your Message...."
             rows={4}
             cols={40}

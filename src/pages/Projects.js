@@ -42,8 +42,8 @@ function Projects() {
     ],
   };
   return (
-    <div className="pt-20 px-10 h-screen py-5 dark:bg-slate-700">
-      <h1 className="text-4xl font-bold underline mb-8 dark:text-white">My Projects</h1>
+    <div className="px-10 py-14 dark:bg-slate-700">
+      <h1 className="text-4xl font-bold underline mt-6 mb-4 dark:text-white">My Projects</h1>
       <Slider {...settings}>
         {supportList.map((item) => (
           <SupportCard item={item} key={item.id} />

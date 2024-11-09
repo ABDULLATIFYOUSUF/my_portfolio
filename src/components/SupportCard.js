@@ -2,7 +2,7 @@ import React from 'react'
 
 function SupportCard({item}) {
   return (
-        <div className="card card-compact bg-base-100 w-80 h-[500px] mb-10 shadow-xl">
+        <div className="card card-compact bg-base-100 w-fit mx-5 h-[500px] mb-10 shadow-xl">
   <figure>
     <img
       src={item.image}
