@@ -9,7 +9,7 @@ function About() {
   const qualification = edu
   console.log(edu)
   return (
-    <div className="dark:bg-slate-700 pt-20 py-10">
+    <div className="dark:bg-slate-700 pt-20 py-10 h-screen">
       <div className="w-screen">
         <h1 className="text-red-600 text-center underline font-bold text-4xl">Education</h1>
       <div className="flex flex-wrap gap-8 mt-5 justify-center">

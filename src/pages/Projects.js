@@ -42,7 +42,7 @@ function Projects() {
     ],
   };
   return (
-    <div className="pt-20 px-10 py-5 dark:bg-slate-700">
+    <div className="pt-20 px-10 h-screen py-5 dark:bg-slate-700">
       <h1 className="text-4xl font-bold underline mb-8 dark:text-white">My Projects</h1>
       <Slider {...settings}>
         {supportList.map((item) => (

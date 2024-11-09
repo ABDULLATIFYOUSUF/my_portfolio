@@ -64,7 +64,7 @@ function Navbar() {
               {Navbar}
             </ul>
           </div>
-          <img className="w-16 rounded-full" src="/latif.png" />
+          <img className="w-16 rounded-full" src="/Latif.png" />
           <a className="btn btn-ghost text-xl">Abdul Latif</a>
         </div>
         <div className="navbar-end space-x-3">
